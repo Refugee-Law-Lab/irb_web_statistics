@@ -1,4 +1,4 @@
-### Repo for Analyzing Immigration and Refugee Board Statistics
+### Repo for Analyzing Immigration and Refugee Board Data from Statistics Webpage
 
 Author: Sean Rehaag
 
